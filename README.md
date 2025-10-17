@@ -30,7 +30,6 @@
 - [Subread v2.0](https://github.com/ShiLab-Bioinformatics/subread) — Tool kit for processing next-gen sequencing data.
 - [DESeq2](https://github.com/thelovelab/DESeq2) — Differential gene expression analysis of RNA sequencing data.
 - [clusterProfiler v4.12.6](https://github.com/YuLab-SMU/clusterProfiler) — Statistical analysis and visualization of functional profiles for genes and gene clusters.
-- []()
 ## MATERIALS AND METHODS
 
 ### Search for mucinolysome-encoding MAGs in UHGG

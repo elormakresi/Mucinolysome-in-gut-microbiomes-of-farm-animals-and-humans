@@ -1,4 +1,6 @@
-Scripts used in the paper titled "Mucinolysome in gut microbiomes of farm animals and humans"
+Scripts used in the paper:
+
+Akresi JE, et al. ***Limousia* bacteria encode mucinolysome for mucin utilization in animal gut microbiomes.** *Gut Microbes* (2026).(https://www.tandfonline.com/doi/full/10.1080/19490976.2026.2645267#d1e580)
 
 ## Abstract
 
